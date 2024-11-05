@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\PUST Books\5th semester\micro-controllar\lab\Multiplexing\Multiplexing.mcppi" -SP"F:\MikroC\mikroC PRO for PIC\Defs\" -SP"F:\MikroC\mikroC PRO for PIC\Uses\P16\" -SP"E:\PUST Books\5th semester\micro-controllar\lab\Multiplexing\" -SP"C:\Users\HP\Desktop\210617\" -IP"F:\MikroC\mikroC PRO for PIC\Uses\P16\" -IP"E:\PUST Books\5th semester\micro-controllar\lab\Multiplexing\" "Multiplexing.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Multiplexing.c
+diagnostics: 36	123	Compiled Successfully	Multiplexing.c
+hint: 3	1164	Variable 'dig1' has been eliminated by optimizer	Multiplexing.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)
+hint: 0	1144	Used ROM (program words): 348 (4%)  Free ROM (program words): 7844 (96%)	Used ROM (program words): 348 (4%)  Free ROM (program words): 7844 (96%)
+diagnostics: 0	125	Project Linked Successfully	Multiplexing.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'Multiplexing.mcppi' completed: 157 ms	 
+diagnostics: 0	103	Finished successfully: 03 Nov 2024, 22:36:35	Multiplexing.mcppi
