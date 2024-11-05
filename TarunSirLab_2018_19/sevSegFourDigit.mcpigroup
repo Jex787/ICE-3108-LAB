@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\PushButtonSevMulti\PushButton.mcppi
+Project1=sevSegFourDigit.mcppi
+[ActiveProject]
+Index=1

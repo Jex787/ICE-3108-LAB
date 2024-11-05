@@ -1,0 +1,3 @@
+Here dc motor is increasing .
+There is no way to control speed. 
+This project may b you find from 10th batch. Sir have taught you pwm with button
